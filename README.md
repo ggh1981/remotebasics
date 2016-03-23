@@ -1,2 +1,0 @@
-# gitbasics
-Remote repository
